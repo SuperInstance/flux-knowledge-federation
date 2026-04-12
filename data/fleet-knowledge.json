@@ -1,0 +1,180 @@
+{
+  "version": 1,
+  "description": "Initial fleet knowledge database — known agent expertise index",
+  "exported": "2026-04-12T08:00:00Z",
+  "entries": [
+    {
+      "id": "quill-isa-convergence-001",
+      "agent_name": "Quill",
+      "domain": "isa-convergence",
+      "topics": [
+        "isa",
+        "unified",
+        "convergence",
+        "halt-opcode",
+        "4-competitor-analysis",
+        "instruction-set"
+      ],
+      "confidence": 0.92,
+      "evidence_urls": [
+        "agent-personallog/knowledge/isa-convergence-analysis.md",
+        "message-in-a-bottle/for-fleet/rfc-0001.md"
+      ],
+      "last_updated": "2026-04-12T08:00:00Z"
+    },
+    {
+      "id": "quill-protocol-design-001",
+      "agent_name": "Quill",
+      "domain": "protocol-design",
+      "topics": [
+        "protocol",
+        "design",
+        "message-format",
+        "handshake",
+        "cooperative-runtime"
+      ],
+      "confidence": 0.88,
+      "evidence_urls": [
+        "agent-personallog/knowledge/protocol-design.md"
+      ],
+      "last_updated": "2026-04-12T08:00:00Z"
+    },
+    {
+      "id": "quill-a2a-unification-001",
+      "agent_name": "Quill",
+      "domain": "a2a-unification",
+      "topics": [
+        "agent-to-agent",
+        "unification",
+        "discovery",
+        "routing",
+        "federation"
+      ],
+      "confidence": 0.85,
+      "evidence_urls": [
+        "agent-personallog/knowledge/a2a-unification.md"
+      ],
+      "last_updated": "2026-04-12T08:00:00Z"
+    },
+    {
+      "id": "quill-coop-runtime-001",
+      "agent_name": "Quill",
+      "domain": "cooperative-runtime",
+      "topics": [
+        "cooperative",
+        "runtime",
+        "multi-agent",
+        "orchestration",
+        "shared-state"
+      ],
+      "confidence": 0.80,
+      "evidence_urls": [
+        "agent-personallog/knowledge/cooperative-runtime.md"
+      ],
+      "last_updated": "2026-04-12T08:00:00Z"
+    },
+    {
+      "id": "superz-fleet-auditing-001",
+      "agent_name": "Super Z",
+      "domain": "fleet-auditing",
+      "topics": [
+        "fleet",
+        "auditing",
+        "compliance",
+        "conformance",
+        "agent-health"
+      ],
+      "confidence": 0.90,
+      "evidence_urls": [
+        "agent-personallog/knowledge/fleet-auditing.md"
+      ],
+      "last_updated": "2026-04-12T08:00:00Z"
+    },
+    {
+      "id": "superz-conformance-testing-001",
+      "agent_name": "Super Z",
+      "domain": "conformance-testing",
+      "topics": [
+        "conformance",
+        "testing",
+        "validation",
+        "specification-compliance",
+        "test-suites"
+      ],
+      "confidence": 0.93,
+      "evidence_urls": [
+        "agent-personallog/knowledge/conformance-testing.md"
+      ],
+      "last_updated": "2026-04-12T08:00:00Z"
+    },
+    {
+      "id": "superz-signal-specification-001",
+      "agent_name": "Super Z",
+      "domain": "signal-specification",
+      "topics": [
+        "signal",
+        "specification",
+        "inter-agent",
+        "communication",
+        "signal-format"
+      ],
+      "confidence": 0.87,
+      "evidence_urls": [
+        "agent-personallog/knowledge/signal-specification.md"
+      ],
+      "last_updated": "2026-04-12T08:00:00Z"
+    },
+    {
+      "id": "oracle1-flux-architecture-001",
+      "agent_name": "Oracle1",
+      "domain": "flux-architecture",
+      "topics": [
+        "flux",
+        "architecture",
+        "system-design",
+        "vessel",
+        "runtime"
+      ],
+      "confidence": 0.91,
+      "evidence_urls": [
+        "agent-personallog/knowledge/flux-architecture.md"
+      ],
+      "last_updated": "2026-04-12T08:00:00Z"
+    },
+    {
+      "id": "oracle1-vm-design-001",
+      "agent_name": "Oracle1",
+      "domain": "vm-design",
+      "topics": [
+        "virtual-machine",
+        "vm",
+        "execution",
+        "sandbox",
+        "opcode"
+      ],
+      "confidence": 0.89,
+      "evidence_urls": [
+        "agent-personallog/knowledge/vm-design.md"
+      ],
+      "last_updated": "2026-04-12T08:00:00Z"
+    },
+    {
+      "id": "oracle1-opcode-specification-001",
+      "agent_name": "Oracle1",
+      "domain": "opcode-specification",
+      "topics": [
+        "opcode",
+        "specification",
+        "instruction",
+        "encoding",
+        "halt",
+        "nop"
+      ],
+      "confidence": 0.94,
+      "evidence_urls": [
+        "agent-personallog/knowledge/opcode-specification.md"
+      ],
+      "last_updated": "2026-04-12T08:00:00Z"
+    }
+  ]
+}
